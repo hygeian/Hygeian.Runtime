@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hygeian.Runtime.Core", "Hyg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hygeian.Runtime.Extensions", "Hygeian.Runtime.Extensions\Hygeian.Runtime.Extensions.csproj", "{7CB52373-6F82-488A-9201-B16FE4EC058B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hygeian.Runtime.AspNetCore", "Hygeian.Runtime.AspNetCore\Hygeian.Runtime.AspNetCore.csproj", "{CF930578-1C03-4B04-B7D3-5BA1E9C8D1F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7CB52373-6F82-488A-9201-B16FE4EC058B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CB52373-6F82-488A-9201-B16FE4EC058B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CB52373-6F82-488A-9201-B16FE4EC058B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF930578-1C03-4B04-B7D3-5BA1E9C8D1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF930578-1C03-4B04-B7D3-5BA1E9C8D1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF930578-1C03-4B04-B7D3-5BA1E9C8D1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF930578-1C03-4B04-B7D3-5BA1E9C8D1F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
